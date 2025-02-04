@@ -19,8 +19,13 @@ Hamiltonian_score_gst=Fastahamiltonian('lambda_genome_seq.fasta',c_average_031_G
 
 Hamiltonian_score_033_gst=Hamiltonian_score_033-Hamiltonian_score_gst;
 
-Any publication resulting from applications of DCA-scape should cite:
+Any publication resulting from applications of DCA-scapes should cite:
 
-Q Zhou, N Kunder, José Alberto De la Paz, AE. Lasley, VD.Bhat, 
-F Morcos, ZT. Campbell (2018),Global pairwise RNA interaction 
+Q Zhou, N Kunder, Jose Alberto De la Paz, AE. Lasley, VD.Bhat, 
+F Morcos, ZT. Campbell (2018), Global pairwise RNA interaction 
 landscapes reveal corefeatures of protein recognition.
+
+Q Zhou, A D Stanowick1, J A de la Paz, X Lin, F Morcos (2025)
+Characterizing DNA Recognition Preferences of Transcription
+Factors Using Global Couplings and High-throughput Sequencing
+(in preparation)
